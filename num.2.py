@@ -1,0 +1,1 @@
+input(int("What is your number"))
